@@ -1,1 +1,2 @@
-# rock-paper-scissors-game
+# Rock, Paper, Scissor Game
+## About
